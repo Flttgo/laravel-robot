@@ -1,5 +1,5 @@
 {
-    "name": "raybon-lee/laravel-robot",
+    "name": "flttgw/laravel-robot",
     "license": "MIT",
     "autoload": {
         "psr-4": {
