@@ -1,6 +1,6 @@
 <?php
 
-namespace Fltttgw\LaravelRobot;
+namespace Flttgo\LaravelRobot;
 
 use Illuminate\Support\ServiceProvider;
 use Mitoop\Robot\Robot;

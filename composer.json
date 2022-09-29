@@ -1,9 +1,9 @@
 {
-    "name": "flttgw/laravel-robot",
+    "name": "flttgo/laravel-robot",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fltttgw\\LaravelRobot\\": "src"
+            "Flttgo\\LaravelRobot\\": "src"
         }
     },
     "authors": [
@@ -23,10 +23,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Fltttgw\\LaravelRobot\\RobotServiceProvider"
+                "Flttgo\\LaravelRobot\\RobotServiceProvider"
             ],
             "aliases": {
-                "Robot": "Fltttgw\\LaravelRobot\\Robot"
+                "Robot": "Flttgo\\LaravelRobot\\Robot"
             }
         }
     },

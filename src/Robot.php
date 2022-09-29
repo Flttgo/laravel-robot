@@ -1,6 +1,6 @@
 <?php
 
-namespace Fltttgw\LaravelRobot;
+namespace Flttgo\LaravelRobot;
 
 use Closure;
 use Illuminate\Support\Facades\Facade;
